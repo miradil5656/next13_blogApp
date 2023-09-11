@@ -2,6 +2,6 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-   <div>Hi,Miradil</div>
+   <div>Hi,Miradil2</div>
   )
 }
